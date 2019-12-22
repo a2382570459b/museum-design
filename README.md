@@ -36,15 +36,18 @@
 ## 原型设计
 ### 功能一：展品介绍及寻找
 >用户使用APP上传展品图片，会自动生成当前位置到该展品的介绍和地图线路。查看展品介绍和地图线路。。
-![寻找](https://images.gitee.com/uploads/images/2019/1112/232517_e36c4797_1648154.png "寻找.png")
+![232517_e36c4797_1648154.png](https://upload-images.jianshu.io/upload_images/9860856-0a03d11523ac00e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### 功能二：翻译
 >用户在使用app进行操作到信息内容页面后header部分会有语言栏进行语言选择，用户可以根据自己的需求选择语言，页面会根据选择的语言进行翻译。
-![翻译](https://images.gitee.com/uploads/images/2019/1112/232547_50e8a573_1648154.jpeg "翻译.jpg")
+![232547_50e8a573_1648154.jpeg](https://upload-images.jianshu.io/upload_images/9860856-a267a8c21dc8bdf1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### 功能三：语音交互
 >用户打开智能语音交互界面，用语音的形式提出问题，APP会识别用户提出的问题，同时反馈相关的回答内容。
-![交互](https://images.gitee.com/uploads/images/2019/1112/232616_3f968ece_1648154.jpeg "交互.jpg")
+![232616_3f968ece_1648154.jpeg](https://upload-images.jianshu.io/upload_images/9860856-00b7d069def695e1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### APP上的体现
 * 用于进入APP主界面，通过点击“展品介绍及寻找”和“智能语音问答”按钮可以实现不同功能：
@@ -52,7 +55,8 @@
 * 1.首先点击“展品介绍及寻找”按钮进入对应界面。用户通过上传展品图片来实现“展品介绍和寻找”功能；点击header可实现“翻译”功能。
 
 * 2.再点击“智能语音问答”按钮，用户进入问答界面，用户可通过发送语音获得信息的形式实现“智能语音问答”的功能。
-![123](https://images.gitee.com/uploads/images/2019/1112/232735_55d0f32e_1648154.png "123.png")
+![232735_55d0f32e_1648154.png](https://upload-images.jianshu.io/upload_images/9860856-cbc1d185c4086137.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ********************
 
 
